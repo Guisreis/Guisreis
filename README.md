@@ -1,6 +1,8 @@
 # Olá pessoal! Eu sou o Guilherme dos Santos Reis 👋
 
-Sou Analista de Infraestrutura em Cloud com mais de 3 anos de experiência em TI, com foco em ambientes AWS e conhecimentos sólidos em segurança, redes e automações.
+Sou Analista de Infraestrutura em Cloud com mais de 3 anos de experiência em TI, com forte atuação em ambientes AWS.
+
+Ao longo da minha trajetória, atuei em projetos de sustentação e reestruturação de ambientes, criação de arquiteturas em 3 camadas e adequação de infraestrutura com base no AWS Well-Architected Framework.
 
 Atualmente curso graduação em Redes de Computadores na Faculdade Impacta e sou certificado AWS Solutions Architect Associate, além de possuir certificações fundamentais da Microsoft e AWS.
 
