@@ -2,7 +2,7 @@
 
 Sou Analista de Infraestrutura em Cloud com mais de 3 anos de experiência em TI, com foco em ambientes AWS e conhecimentos sólidos em segurança, redes e automações.
 
-🎓 Atualmente curso graduação em Redes de Computadores na Faculdade Impacta e sou certificado AWS Solutions Architect Associate, além de possuir certificações fundamentais da Microsoft e AWS.
+Atualmente curso graduação em Redes de Computadores na Faculdade Impacta e sou certificado AWS Solutions Architect Associate, além de possuir certificações fundamentais da Microsoft e AWS.
 
 ## 🏆 Certificações
 
