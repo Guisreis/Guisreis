@@ -26,4 +26,4 @@ Atualmente curso graduação em Redes de Computadores na Faculdade Impacta e sou
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsreis9508/)
-[![Credly](https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/5b9d3f3c-e8eb-4fff-b772-70e43c49ade5/linked_in_profile)
+[![Credly](https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/g.sreis)
