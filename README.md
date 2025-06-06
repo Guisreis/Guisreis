@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá pessoal! Eu sou o Guilherme dos Santos Reis 👋
 
-<!--
-**Guisreis/Guisreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista de Infraestrutura em Cloud com mais de 3 anos de experiência em TI, com foco em ambientes AWS e conhecimentos sólidos em segurança, redes e automações.
 
-Here are some ideas to get you started:
+🎓 Atualmente curso graduação em Redes de Computadores na Faculdade Impacta e sou certificado AWS Solutions Architect Associate, além de possuir certificações fundamentais da Microsoft e AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certificações
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- Microsoft AZ-900: Azure Fundamentals
+- Microsoft AI-900: Azure AI Fundamentals
+- Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+
+## 🛠️ Principais Habilidades
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsreis9508/)
+[![Credly](https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/5b9d3f3c-e8eb-4fff-b772-70e43c49ade5/linked_in_profile)
