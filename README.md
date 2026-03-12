@@ -1,8 +1,12 @@
-Sou Analista de Infraestrutura em Cloud com mais de 3 anos de experiência em TI, com forte atuação em ambientes AWS.
+Sou Site Reliability Engineer (SRE) com mais de 4 anos de experiência em TI, com forte atuação em infraestrutura cloud na AWS, automação e confiabilidade de ambientes de produção.Possuo formação técnica em Redes de Computadores pelo SENAI e atualmente curso graduação na área pela Faculdade Impacta, aprofundando conhecimentos em arquitetura de sistemas, redes e infraestrutura.
 
-Ao longo da minha trajetória, atuei em projetos de sustentação e reestruturação de ambientes, criação de arquiteturas em 3 camadas e adequação de infraestrutura com base no AWS Well-Architected Framework.
+Ao longo da minha trajetória, atuei em projetos de sustentação, modernização e reestruturação de ambientes, participando da definição e implementação de arquiteturas escaláveis, incluindo modelos em 3 camadas, além da adequação de infraestruturas seguindo boas práticas do AWS Well-Architected Framework.
 
-Atualmente curso graduação em Redes de Computadores na Faculdade Impacta e sou certificado AWS Solutions Architect Associate, além de possuir certificações da Microsoft e AWS Partner.
+Tenho experiência com políticas de segurança, como Content Security Policy (CSP) aplicadas via CloudFront e AWS Amplify, além de sólido conhecimento em redes, incluindo VPC, VPC Peering e conectividade entre ambientes na AWS.Também possuo experiência com administração de sistemas Linux e Windows Server, além do uso de ferramentas como Visual Studio Code e AWS CLI para automação e gerenciamento de infraestrutura.
+
+Atuo com orquestração de containers utilizando Kubernetes, com experiência na operação e gerenciamento de clusters em ambientes cloud e on-premises, incluindo ambientes gerenciados via Rancher. Tenho vivência com componentes e ferramentas do ecossistema Kubernetes como kubectl, Helm, Ingress Controllers, Services, ConfigMaps e Secrets, além de atividades de deploy, troubleshooting de workloads e suporte a aplicações containerizadas.
+
+Sou certificado em cloud (AWS Cloud Practitioner, AWS Solutions Architect – Associate, Microsoft SC-900, AI-900 e AZ-900) e estou sempre em busca de aprimoramento técnico, certificações e novos desafios na área de Cloud e Kubernetes.
 
 ## 🏆 Certificações
 
