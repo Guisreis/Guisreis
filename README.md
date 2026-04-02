@@ -6,11 +6,12 @@ Tenho experiência com políticas de segurança, como Content Security Policy (C
 
 Atuo com orquestração de containers utilizando Kubernetes, com experiência na operação e gerenciamento de clusters em ambientes cloud e on-premises, incluindo ambientes gerenciados via Rancher. Tenho vivência com componentes e ferramentas do ecossistema Kubernetes como kubectl, Helm, Ingress Controllers, Services, ConfigMaps e Secrets, além de atividades de deploy, troubleshooting de workloads e suporte a aplicações containerizadas.
 
-Sou certificado em cloud (AWS Cloud Practitioner, AWS Solutions Architect – Associate, Microsoft SC-900, AI-900 e AZ-900) e estou sempre em busca de aprimoramento técnico, certificações e novos desafios na área de Cloud e Kubernetes.
+Sou certificado em cloud (AWS Cloud Practitioner, AWS Solutions Architect – Associate, AWS Developer – Associate, Microsoft SC-900, AI-900 e AZ-900) e estou sempre em busca de aprimoramento técnico, certificações e novos desafios na área de Cloud e Kubernetes.
 
 ## 🏆 Certificações
 
 - AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
 - AWS Certified Cloud Practitioner
 - Microsoft AZ-900: Azure Fundamentals
 - Microsoft AI-900: Azure AI Fundamentals
